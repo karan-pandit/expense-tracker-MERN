@@ -1,6 +1,8 @@
 # Expense Tracker (MERN)
 
 > Full stack expense tracker
+Hosted on Heroku [here](https://expense-tracker-karan.herokuapp.com/)
+
 
 ## Usage
 
